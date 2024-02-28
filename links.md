@@ -8,5 +8,6 @@ permalink: LINKS/
 Some easy-to-use commands you can use to solve poer 6022 error.
 * [Git Tutorial: What is SSH?](https://youtu.be/X9jAjG3PWPo?si=3JvmB7fJpS-ORU2f) --- 
   'what is ssh?' illustration.
+* [Computer Basics: Understanding Operating Systems](https://youtu.be/fkGCLIQx1MI?si=HV06Z_8Dh-hxCI2g) --- Big Picture of What and How Operating Systems works.
 <br>
 <hr>
