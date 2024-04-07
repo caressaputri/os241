@@ -11,5 +11,6 @@ Some easy-to-use commands you can use to solve poer 6022 error.
 * [Computer Basics: Understanding Operating Systems](https://youtu.be/fkGCLIQx1MI?si=HV06Z_8Dh-hxCI2g) --- Big Picture of What and How Operating Systems works.
 * [Linux](https://youtu.be/rrB13utjYV4?si=KRzvgpjqCyjiWzCv) --- Linux in 200 seconds
 * [How to Export and Import VirtualBox Virtual Machine](https://youtu.be/7GbPbaMwlKw?si=esJLx4d7h8snXNrK) --- How to backup Debian Guest without reinstalling for Assignment Week05.
+* [What are GitHub Licenses? | How To Add a License? | Why You Should Use a License?](https://youtu.be/ndORMSnb2nw?si=8_gNurDr8WyxVH-g) --- GitHub Licenses.
 <br>
 <hr>
