@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+ZCZC W09 60 :05 Quiz related including studying
+ZCZC W09 420 L19 Assignment #09
+>>>>>>> 7528776 (Assignment Week 09)
 ZCZC W08 300 L18 Assignment #08
 ZCZC W07 120 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc
 ZCZC W07 60 L01 SCELE/Discord related

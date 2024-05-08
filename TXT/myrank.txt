@@ -1,4 +1,9 @@
 # WEEKLY 6 of 10 RANKS
+<<<<<<< HEAD
+=======
+ZCZC W09 sabinamaritza
+ZCZC W09 fauzanjaisyu
+>>>>>>> 7528776 (Assignment Week 09)
 ZCZC W08 sdikyarts
 ZCZC W08 facesofgoblin
 ZCZC W07 sitaamirasyarifah
