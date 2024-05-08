@@ -13,5 +13,6 @@ Some easy-to-use commands you can use to solve poer 6022 error.
 * [How to Export and Import VirtualBox Virtual Machine](https://youtu.be/7GbPbaMwlKw?si=esJLx4d7h8snXNrK) --- How to backup Debian Guest without reinstalling for Assignment Week05.
 * [What are GitHub Licenses? | How To Add a License? | Why You Should Use a License?](https://youtu.be/ndORMSnb2nw?si=8_gNurDr8WyxVH-g) --- GitHub Licenses.
 * [SCP Linux Command – How to SSH File Transfer from Remote to Local](https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/) --- SCP
+* [Packages and Patches - How to build Linux From Scratch (LFS)]([https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/](https://youtu.be/5KKWC1QMVtI?si=DAZf96t0er4UvQ58)) --- LFS Packages
 <br>
 <hr>
